@@ -1,18 +1,18 @@
 # Site settings
 title: 3-hour Project Night
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+description: 'Bi-weekly co-working time to build projects'
 url: 'http://lqb2.github.io/3h-project-night/'
 baseurl: '/3h-project-night/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
+  name: 'Lawrence Barriner II'
+  email: lqb@alum.mit.edu
   twitter_username: lqb2
-  facebook_username: lqbii
-  github_username:  lqb2
-  linkedin_username:  lawrencebarrinerii
+#  facebook_username: lqbii
+#  github_username:  lqb2
+#  linkedin_username:  lawrencebarrinerii
 
 defaults:
   -
