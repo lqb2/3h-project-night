@@ -1,8 +1,8 @@
 ---
 title:  "What is 3-hour Project Night?"
 date:   2017-01-03 18:33:00
-categories: [jekyll]
-tags: [jekyll]
+categories: [launch]
+tags: [launch]
 ---
 3-hour project night is space and time for people building projects to co-work. It's basically a meetup but for people who want to work alongside other people pushing to produce something within the 3-hour time limit.
 
