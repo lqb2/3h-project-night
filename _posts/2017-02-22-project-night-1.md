@@ -1,8 +1,8 @@
 ---
 title:  "3-hour Project Night #1"
 date:   2017-02-22 18:33:00
-categories: []
-tags: []
+categories: 
+tags: 
 ---
 
 ## Who
