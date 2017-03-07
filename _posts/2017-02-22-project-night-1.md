@@ -1,9 +1,11 @@
 ---
 title:  "3-hour Project Night #1"
 date:   2017-02-22 18:33:00
-categories: 
-tags: 
+categories: []
+tags: []
 ---
+
+The first 3hpn was great and I'm excited to keep it going for at least for myself, but also for whoever else wants to join up. I'm testing out a little writeup of what happened with this post and although it probably won't scale, it could be cool to see a record for how this goes for now. Here goes nothing!
 
 ## Who
 
